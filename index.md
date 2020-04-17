@@ -6,4 +6,4 @@ Can I alter the theme?
 
 I can do this!!
 
-What is the markdown syntax? - [MD Syntax](../how-to-md-code.md)
+What is the markdown syntax? - [MD Syntax](how-to-md-code.md)
