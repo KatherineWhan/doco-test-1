@@ -2,6 +2,8 @@
 
 This is an experiment. Where does this page end up?
 
+Can I alter the theme?
+
 I can do this!!
 
-How to create links to subpages - [Request Admin Access](/how-to-laptop-admin)
+What is the markdown syntax? - [MD Syntax](../how-to-md-code.md)
